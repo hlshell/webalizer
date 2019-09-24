@@ -73,7 +73,7 @@ char *msg_dns_none = "没有处理";
 char *msg_dns_abrt = "DNS支持不存在，正在中止…";
 /*地理位置信息*/
 char *msg_geo_open = "错误打开文件";
-char *msg_geo_use = "Using";
+char *msg_geo_use = "使用";
 char *msg_geo_nolu = "查找被禁用";
 char *msg_geo_dflt  = "默认";
 /*内存分配错误*/
